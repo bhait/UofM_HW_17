@@ -6,9 +6,8 @@
 }
 
 body {
-  background-color: white;
   margin: 15px auto;
-  border: 2px solid #61f231;
+  border: 2px solid #00e1ff;
 }
 
 p {
@@ -37,7 +36,6 @@ h1 {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
   color: black;
-
 }
 
 a {
@@ -49,8 +47,8 @@ a {
 
 ul {
   padding: 15px;
-  border-bottom: 2px solid #61f231;
-  border-top: 2px solid #61f231;
+  border-top: 2px solid #ff0000;
+  border-bottom: 2px solid #ff00dd;
   height: 30px;
 }
 
