@@ -1,0 +1,67 @@
+.floatleft {
+  float:left;
+}
+.floatright {
+  float:right;
+}
+
+body {
+  background-color: white;
+  margin: 15px auto;
+  border: 2px solid #61f231;
+}
+
+p {
+  font-size: 20px;
+  text-align: left;
+  border-bottom: 2px solid black;
+  line-height: 10px;
+  margin-top: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: black;
+}
+p span {
+  background: white;
+  padding:0 10px;
+}
+
+h1 {
+  font-size: 65px;
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: black;
+
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: black;
+}
+
+ul {
+  padding: 15px;
+  border-bottom: 2px solid #61f231;
+  border-top: 2px solid #61f231;
+  height: 30px;
+}
+
+li {
+  display: inline;
+  padding: 25px;
+  border-left: 2px solid #61f231;
+  line-height: 30px;
+}
+
+li.special_text {
+  font-size: 150%;
+  font-weight: 500;
+}
