@@ -54,7 +54,7 @@ p span {
 
 h1 {
   font-size: 95px;
-  line-height: 120x;
+  line-height: 130px;
   text-align: left;
   margin: 80px;
   font-family: 'Poppins', sans-serif;
@@ -104,6 +104,19 @@ justify-content: center;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   text-decoration: none;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
 }
 
 .linkedin {
